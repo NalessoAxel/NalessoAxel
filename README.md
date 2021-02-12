@@ -1,6 +1,6 @@
 # Hello there, i'm Axel 29 years old junioir front-end developer 👋 👨‍💻.
 
-Just finisihed BeCode webdev training in Brussels(Belgium).
+Learner at git aBeCode webdev training in Brussels(Belgium).
 
 Passionnate about front-end/design/UX.
 
