@@ -1,4 +1,4 @@
-# Hello there, i'm Axel 29 years old front-end developer 👋 👨‍💻.
+# Hello there, i'm Axel 29 years old junioir front-end developer 👋 👨‍💻.
 
 Just finisihed BeCode webdev training in Brussels(Belgium).
 
