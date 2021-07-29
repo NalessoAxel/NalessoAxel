@@ -1,6 +1,6 @@
-# Hello there, i'm Axel 29 years old junior front-end developer 👋 👨‍💻.
+# Hello there, i'm Axel 29 years old front-end developer 👋 👨‍💻.
 
-Learner at BeCode webdev training in Brussels(Belgium).
+Intern at Caracal Studio.
 
 Passionnate about front-end/design/UX.
 
