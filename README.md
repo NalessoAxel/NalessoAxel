@@ -1,6 +1,5 @@
-# Hello there, i'm Axel 29 years old front-end developer 👋 👨‍💻.
+# Hello there, i'm Axel 30 years old front-end developer 👋 👨‍💻.
 
-Intern at Caracal Studio.
 
 Passionnate about front-end/design/UX.
 
