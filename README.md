@@ -1,7 +1,7 @@
-# Hello there, i'm Axel 30 years old front-end developer 👋 👨‍💻.
+# Hello there, i'm Axel  front-end developer and ux/ui designer 👋 👨‍💻.
 
 
-Passionnate about front-end/design/UX.
+Passionnate about front-end/design/UX/UI.
 
  I love learning new thing every day 🤘.
 
