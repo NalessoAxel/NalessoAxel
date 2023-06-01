@@ -1,4 +1,4 @@
-# Hello there, i'm Axel  front-end developer and ux/ui designer 👋 👨‍💻.
+# Hello there, i'm Axel  front-end developer and web designer 👋 👨‍💻.
 
 
 Passionnate about front-end/design/UX/UI.
