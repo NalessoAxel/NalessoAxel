@@ -1,7 +1,7 @@
 # Hello there, i'm Axel  front-end developer and web designer 👋 👨‍💻.
 
 
-Passionnate about front-end/design/UX/UI.
+Passionnate about front-end/web designer
 
  I love learning new thing every day 🤘.
 
